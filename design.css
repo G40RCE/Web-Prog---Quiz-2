@@ -84,15 +84,13 @@
     position: absolute;
     text-align: left;
     left: 430px;
-    top: 20%;
+    top: 40%;
     width: 800px;
     font-size: 15px;
     font-weight: 200;
     font-family: 'Franklin Gothic Medium';
 }
-.row2{
-    flex-basis: 50%
-}
+
 .right-column4 img{
     border: 3px solid white;
     border-radius: 85%;
